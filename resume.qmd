@@ -1,89 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kase Kolberg's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Kase Kolberg
+Financial Economics Major
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="kasekolberg@gmail.com">kasekolberg@gmail.com</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
+### Brigham Young University - Idaho	Rexburg, ID
+Bachelor of Science in Financial Economics - Minor in Finance	Expected April 2025
 
-`1654-1660`
-__The King's School, Grantham.__
+•	GPA: 3.34
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+•	Teacher’s assistant – Spreadsheet Analysis – graded 18 Excel projects for 30 students
 
-- Sizar
+•	Coursework: Macro & Microeconomics, Financial & Managerial Accounting, Financial Management, Spreadsheet Analysis, Statistics, Managerial Economics, Financial Analytics, Advanced Spreadsheet Application, Econometrics
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
+#### Rove Pest Control	St Paul, MN
+#### Financial/Data Analyst Intern	May 2024-Present
+•	Created VBA program to automate monthly fuel transaction reports, improving reporting efficiency
 
-- Fellow
+•	Visualized large datasets to identify trends, enabling company to make better decisions and implement changes
 
+•	Generated paystubs for sales team by sorting data in Excel, ensuring accurate and timely distribution
 
+•	Analyzed call data to detect 18 inactive numbers, optimizing the call routing process for better customer support
 
-## Awards
+#### Greenway Pest	Albuquerque, NM
+#### Pest Control Technician	Apr 2022-Aug 2023
+•	Trained six employees in proper protocols and procedures to efficiently service houses
 
-`2012`
-President, *Royal Society*, London, UK
+•	Communicated concerns of customers with sales team to improve retention and satisfaction
 
-Associate, *French Academy of Science*, Paris, France
+•	Interacted with 1,000+ customers, ensuring contracts were understood and services were provided efficiently 
 
+#### Green Tree Apartments	Bozeman, MT
+#### Apartment Renovator	May 2020-Jun 2020
+•	Collaborated with five others to complete apartment renovation tasks for four apartments
 
+•	Accurately recorded and reported job progress each day to apartment managers
 
-## Publications
+•	Demonstrated strong work ethic by consistently working 40 hours per week
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## LEADERSHIP & SERVICE
+#### The Church of Jesus Christ of Latter-day Saints	Santa Cruz, Bolivia & Philadelphia, PA
+#### Full-time Volunteer Representative	Jul 2019- Jul 2021
+•	Organized presentations, meetings, and programs focused on effective instruction and service
 
-### Journals
+•	Led five volunteers in discussions concerning work efficiency and methods of increasing success of service
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+•	Taught English and religion to dozens of people both in person and virtually
 
-`1669`
-Lectiones opticæ.
+#### Boy Scouts of America	St Paul, MN
+#### Boy Scout/Eagle Scout	Mar 2012-Apr 2019
+•	Completed over 21 merit badges and all requirements to earn Eagle Scout ranking 
+•	Oversaw planning and supervised over 10 people on the building of nature walkway for Eagle project
 
-etc. etc. etc.
+## SKILLS/INTERESTS
+•	Languages: English and proficient in Spanish
 
-### Patents
+•	Computer skills: R (basic), SQL (basic), Python (basic), Power BI, Excel- functions, Pivot Tables, Macros, VBA
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+•	Interests: stocks, breakdancing, weightlifting, singing
 
+•	Member of Investment Society at BYU-I
 
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2024 -->
